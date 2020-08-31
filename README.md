@@ -47,3 +47,4 @@ MEGJEGYZÉSEK:
 - gcc debugmalloc.h debugmalloc-impl.h progress.h progress_functions.h main.c progress.c progress_functions.c
 - Linux esetén a fordításhoz kell az -lncurses flag is.
 - sudo apt-get install libncurses5-dev libncursesw5-dev --> curses.h megfelelő működéséhez Linux alatt.
+- A memóriaszivárgás lehetőségét a Debugmalloc nevű eszköz végzi, mely nem készít naplót csak hiba esetén. 
