@@ -41,8 +41,8 @@ ELUTASÍTVA HA:
 __________________________________________________________________________________________________________________________________________________________________
 MEGJEGYZÉSEK:
 
-- A program Windows-on és Linuxon lett tesztelve.
-- A kód fejleszthető és hibákat tartalmaz. A feltöltött fájlok megegyeznek a bwadott és elfogadott változattal.
+- A program Windows-on és Linux-on lett tesztelve.
+- A kód fejleszthető és hibákat tartalmaz. A feltöltött fájlok megegyeznek a beadott és elfogadott változattal.
 - gcc debugmalloc.h debugmalloc-impl.h progress.h progress_functions.h main.c progress.c progress_functions.c
 - Linux esetén a fordításhoz kell a -lncurses flag is.
 - sudo apt-get install libncurses5-dev libncursesw5-dev --> curses.h megfelelő működéséhez Linux alatt.
