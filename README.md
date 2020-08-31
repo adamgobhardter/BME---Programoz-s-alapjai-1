@@ -36,4 +36,10 @@ ELUTASÍTVA HA:
     
     • A program a fő adatszerkezeteihez (telefonkönyvnél a nevek, kukacos játéknál a játék állapota és a kukac stb.) globális változót vagy fájlokat használ. A globális változók sokszor indokoltak lehetnek, de nem arra valók, hogy a megfelelő függvényparaméterezést vagy a cím szerinti paraméterátadást kiváltsák.
     
-    • A program a függvényhívást ciklusként/goto-ként használja: pl. a menu() meghívja az adatbevitel()-t, az pedig visszatérés nélkül meghívja a menu()-t, hogy               az meghívhassa a keres()-t, ami megint meghívja a menu()-t... stb.; esetleg indokolatlanul soha vissza nem térő függvények vannak benne (pl. játék végén exit() hívása). 
+    • A program a függvényhívást ciklusként/goto-ként használja: pl. a menu() meghívja az adatbevitel()-t, az pedig visszatérés nélkül meghívja a menu()-t, hogy    az meghívhassa a keres()-t, ami megint meghívja a menu()-t... stb.; esetleg indokolatlanul soha vissza nem térő függvények vannak benne (pl. játék végén exit() hívása). 
+    
+__________________________________________________________________________________________________________________________________________________________________
+MEGJEGYZÉSEK:
+
+- 
+
