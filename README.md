@@ -41,5 +41,7 @@ ELUTASÍTVA HA:
 __________________________________________________________________________________________________________________________________________________________________
 MEGJEGYZÉSEK:
 
-- 
+- A program Windows-on és Linuxon lett tesztelve.
+- A kód fejleszthető és hibákat tartalmaz. A feltöltött fájlok megegyeznek a bwadott és elfogadott változattal.
+- Terminálból fordítva: gcc debugmalloc.h debugmalloc-impl.h progress.h progress_functions.h main.c progress.c progress_functions.c
 
