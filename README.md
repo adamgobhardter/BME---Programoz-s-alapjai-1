@@ -1,2 +1,2 @@
-# BME---Programoz-s-alapjai-1
+# BME-Programozas-alapjai-1
 A Programozás alapjai 1 tárgyból kiadott kötelező házi feladat.
