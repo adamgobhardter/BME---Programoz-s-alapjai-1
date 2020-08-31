@@ -2,7 +2,7 @@
 A Programozás alapjai 1 tárgyból kiadott kötelező házi feladat.
 __________________________________________________________________________________________________________________________________________________________________
 
-Prog1 nyilvántartás *
+PROG1 NYILVÁNTARTÁS:
 
 Készíts programot, amely képes hallgatók adatait nyilvántartani, és Prog1 eredményeiket számolni! A megjegyzendő adatok a következők:
 
@@ -26,6 +26,7 @@ KÖVETELMÉNYEK:
     • A fájlkezelésben olyan adatokat kell tudni kezelni, amelyek száma változik, vagy változhatna. Nem teljesíti a követelményt pl. egy olyan program, amelyik az elindításainak számát (egyetlen egy egész számot) tárol fájlban. Teljesíti viszont egy olyan, amelyik egy játék 10 elemű dicsőséglistáját tárolja. A 10 ugyan fix, de akár változhatna is. A fájlkezelés saját programkódon kell alapuljon, pl. grafikus könyvtár által betöltött kép nem számít saját fájlkezelésnek.
 
 ELUTASÍTVA HA:
+    
     • Az egész program egy forrásfájlban van, nincsen több modulra bontva. A programot logikusan több modulra kell bontani, tehát több *.c és *.h forrásfájlnak kell lennie.
     
     • A program nem használ fájlkezelést.
